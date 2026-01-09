@@ -17,4 +17,4 @@ HX-10HM Magnetic Encoder Intelligent Serial Bus Servo
    docs/4. Raspberry_Pi_Development.md
    docs/5. Jeston_Development.md
    docs/Appendix.md
-   Download <https://drive.google.com/drive/folders/1pyTwNLN_rrlewpfT9gtnX-R4G_21r0Z4?usp=sharing>
+   Download <https://drive.google.com/drive/folders/1nm5aqTByYc5JKOwHE7Xy2vgI5-vG2tqy>
